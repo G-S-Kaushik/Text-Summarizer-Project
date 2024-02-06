@@ -1,9 +1,5 @@
 transformers
-<<<<<<< HEAD
 transformers[sentencepiece]
-=======
-transformers[sentencepiece] 
->>>>>>> 0f2fa54a3ec481f9463974d36c3d39e357c771d3
 datasets
 sacrebleu 
 rouge_score 
